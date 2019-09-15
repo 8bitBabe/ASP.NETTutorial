@@ -1,0 +1,5 @@
+C:\Users\Denise\source\repos\App\AppDB\bin\Debug\AppDB.dacpac
+C:\Users\Denise\source\repos\App\AppDB\bin\Debug\AppDB.dll
+C:\Users\Denise\source\repos\App\AppDB\bin\Debug\AppDB.pdb
+C:\Users\Denise\source\repos\App\AppDB\obj\Debug\AppDB.dll
+C:\Users\Denise\source\repos\App\AppDB\obj\Debug\AppDB.pdb
